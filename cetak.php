@@ -8,6 +8,9 @@ require_once "config.php";
 
 <head>
     <title>Cetak Laporan Pembelian Soregasi Coffee</title>
+    <a href="admin.php" class="float-start">
+            <img src="img/go-back-2.png" class="" style="width: 30px" />
+          </a>
 </head>
 
 <body>
